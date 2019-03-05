@@ -1,0 +1,9 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="feb13.InvocationA"/>
+      <class name="feb13.Groupdemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

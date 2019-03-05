@@ -1,0 +1,9 @@
+<suite name="Suite">
+  <Test name="test">
+    <classes>
+    
+      <class name="feb13.InvocationA"/>
+      <class name="feb13.Groupdemo"/>
+    </classes>
+  </test> 
+</suite> 
